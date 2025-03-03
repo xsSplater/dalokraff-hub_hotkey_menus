@@ -136,22 +136,22 @@ return {
   open_penance_view_key = {
     en = "Shrine Penitentax",
     ["zh-cn"] = "神龛忏悔者",
-    ru = "Искупления",
+    ru = "Святилище искуплений",
   },
   open_penance_view_key_description = {
     en = "Opens the Penance view.",
     ["zh-cn"] = "打开苦修界面。",
-    ru = "Открывает меню Искуплений.",
+    ru = "Открывает меню просмотра Искуплений.",
   },
   -- havoc_background
   open_havoc_background_view = {
     en = "Havoc Mode",
     ["zh-cn"] = "Havoc Mode",
-    ru = "Havoc Mode",
+    ru = "Верная смерть",
   },
   open_havoc_background_view_description = {
     en = "Opens the Havoc Menu.",
     ["zh-cn"] = "Opens the Havoc Menu.",
-    ru = "Opens the Havoc Menu.",
+    ru = "Открывает меню Верной смерти.",
   },
 }
